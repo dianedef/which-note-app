@@ -1,8 +1,8 @@
-# Grow your business by submitting it to directory x.
+# Grow your audience by submitting it to our directory.
 
-Submit your startup to the Minted directory to showcase your business to a growing community of founders, developers, and entrepreneurs.
-- directory x gets **+100** visitors each month.
-- directory x gets **10** unique visitors each month.
+Submit your note app to the directory to showcase your somution to a growing community of writers, students, founders, developers, and entrepreneurs.
+- directory 1st spot gets **+100** visitors each month.
+- directory 2nd spot gets **+10** unique visitors each month.
 
 ---
 
