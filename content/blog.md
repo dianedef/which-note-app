@@ -1,14 +1,13 @@
 ---
 layout: wide
-description: Read the best articles related to the directory.
+description: Read the best articles related to note apps.
 ---
 
 ::center-hero{icon="tabler:zeppelin"}
-# Welcome to the Blog
+# Read Before You Write
 
 #description
-Read the best articles related to the directory.
-And earn SEO points by writing more articles.
+The best articles related to note apps, be the first to know about new features and offers.
 ::
 
 :blogGrid
