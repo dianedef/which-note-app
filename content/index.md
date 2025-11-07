@@ -2,17 +2,13 @@
 layout: wide
 ---
 
-# Find Your Ideal Note App! 👋
+# Find Your Note Companion! 📒
 
-Explore and filter note apps tailored to your needs.
-
-Need a personalized recommendation? ✍️ **Contact me**](https://which-note-app.com/contact) for expert  advices.
-
----
-Here are the top note apps from around the world 👇
+Explore and filter softwares tailored to your needs. Here are the top note apps from around the world 👇
 
 ::search
 ::
-
 ::directory-grid
 ::
+
+Need a personalized recommendation? **✍️ Contact me**](https://which-note-app.com/contact) for expert  advices.
