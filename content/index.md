@@ -2,19 +2,14 @@
 layout: wide
 ---
 
-# This is your brand new directory ! 👋
+# Find Your Ideal Note App! 👋
 
-You can customize this page in markdown.
+Explore and filter note apps tailored to your needs.
 
-See the [📚 **documentation**](https://minteddirectory.com/docs) to see how to customize your landing page.
-
-Get inspired by other directories:
-+ 📗 [Nuxtjs Starters](https://nuxtstarters.com)
-+ 🏠 [FortyTwoTools](https://fortytwotools.com)
+Need a personalized recommendation? ✍️ **Contact me**](https://which-note-app.com/contact) for expert  advices.
 
 ---
-
-Here is your starting listings grid 👇
+Here are the top note apps from around the world 👇
 
 ::search
 ::
